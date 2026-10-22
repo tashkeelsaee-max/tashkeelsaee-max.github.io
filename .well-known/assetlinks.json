@@ -1,1 +1,8 @@
-/
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.tashkeelsaee_max.twa",
+    "sha256_cert_fingerprints": ["2E:FD:78:24:83:E4:B1:73:A0:AE:DE:18:90:92:8C:81:C0:22:6E:CE:BF:89:C6:9B:37:AA:88:27:CA:65:EB:D0"]
+  }
+}]
